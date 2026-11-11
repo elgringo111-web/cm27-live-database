@@ -1,0 +1,14 @@
+{
+  "database_version": "0.1.0",
+  "date": "2026-11-11",
+  "changes": [
+    "Primera exportación de la estructura de datos de LaLiga 2026/27 desde CLUB MASTER 27 3.5.2.",
+    "Se conservan los 20 clubes y 524 registros de jugadores existentes.",
+    "Se conservan los estados de fuente y verificación; los datos pendientes no se presentan como confirmados.",
+    "Los valores de game_profile continúan identificados como estimaciones del juego, no como datos reales."
+  ],
+  "known_limitations": [
+    "La verificación completa de plantillas, edades, nacionalidades y posiciones sigue pendiente.",
+    "No incluye partidas guardadas ni datos de carrera."
+  ]
+}

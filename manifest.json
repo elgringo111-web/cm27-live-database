@@ -1,0 +1,16 @@
+{
+  "product": "CLUB MASTER 27",
+  "channel": "stable-data",
+  "database_version": "0.1.0",
+  "schema_version": "1.0.0",
+  "min_game_version": "3.5.2",
+  "files": {
+    "database": "database.json",
+    "changelog": "changelog.json"
+  },
+  "sha256": {
+    "database.json": "d133b41613124100b2d9fb767acd4f8e5dd350963d663fefd44eb03e82c23de0"
+  },
+  "release_status": "initial_data_snapshot_pending_full_roster_verification",
+  "message": "Primera exportación de la base LaLiga 2026/27. Conserva los estados de verificación originales; no implica que todas las plantillas estén verificadas."
+}
